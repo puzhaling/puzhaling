@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @puzhaling
+- 👀 I’m interested in backend development and solving complex algorithmic tasks
+- 🌱 I’m currently learning data structures and algorithms
+- 📫 How to reach me: puzhaling@gmail.com
 
 <!--
 **puzhaling/puzhaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
