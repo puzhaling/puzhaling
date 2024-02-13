@@ -1,8 +1,7 @@
 - Hi, I’m @puzhaling
-- I’m interested in solving complex algorithmic tasks
-- I’m currently learning data structures and algorithms
+- I’m interested in algorithms
+- I’m currently learning linux system administrating
 - How to reach me: puzhaling@gmail.com
-- Fun fact: I am colorblinder and ofter associate myself with Mark Zukerberg
 
 <!--
 **puzhaling/puzhaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
