@@ -1,6 +1,5 @@
 - Hi, I’m @puzhaling
-- I’m interested in algorithms
-- I’m currently learning linux system administrating and golang backend development 
+- I’m currently learning C++ metaprogramming
 - How to reach me: puzhaling@gmail.com
 
 <!--
