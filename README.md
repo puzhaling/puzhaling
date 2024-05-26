@@ -1,5 +1,5 @@
 - Hi, I’m @puzhaling
-- I’m currently learning C++ metaprogramming
+- I’m currently learning C++ metaprogramming and multithreading
 - How to reach me: puzhaling@gmail.com
 
 <!--
