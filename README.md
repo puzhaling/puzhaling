@@ -1,5 +1,6 @@
 - Hi, I’m @puzhaling
 - I’m currently learning C++ metaprogramming and multithreading
+- It seems to me, that I fell in love with functional programming
 - How to reach me: puzhaling@gmail.com
 
 <!--
