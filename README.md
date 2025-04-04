@@ -1,6 +1,5 @@
 - Hi, I’m @puzhaling
-- I’m currently learning C++ generic/meta programming and multithreading
-- It seems to me, that I fell in love with functional programming
+- I'm interested in low level programming for Linux with C and C++. I like to understand how operating systems works and how I can have a control over it. I really like, when I opens something new about things, that seemed to be obvious and simple, but still there are some misunderstudes in them, that can't get out of my head until I reached the truth. By the way, do you know how directories are implemented? Now I'm struggling with network programming and maybe this is the only thing (I hope - yes) where some abstractions can't be avoided and won (or not?). Maybe some physic lectures can give me the answers. TAMAP.
 - How to reach me: puzhaling@gmail.com
 
 <!--
