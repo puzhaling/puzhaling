@@ -1,18 +1,15 @@
-- Hi, I’m @puzhaling
-- I'm interested in low level programming for Linux with C and C++. I like to understand how operating systems works and how I can have a control over it. I really like, when I opens something new about things, that seemed to be obvious and simple, but still there are some misunderstudes in them, that can't get out of my head until I reached the truth. By the way, do you know how directories are implemented? Now I'm struggling with network programming and maybe this is the only thing (I hope - yes) where some abstractions can't be avoided and won (or not?). Maybe some physic lectures can give me the answers. TAMAP.
-- How to reach me: puzhaling@gmail.com
+```bash
+#!/bin/bash
 
-<!--
-**puzhaling/puzhaling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+read -p 'What is your favourite OS? ' useros
 
-Here are some ideas to get you started:
+useros=$( echo $useros | tr [A-Z] [a-z] )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if [ $useros = 'linux' ] ; then
+	echo 'Good choice'
+elif [ $useros = 'windows' ] || [ $useros = 'macos' ] ; then
+	echo 'Why are you still not using linux?'
+fi
+
+exit 0
+```
